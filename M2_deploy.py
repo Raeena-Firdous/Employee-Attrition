@@ -265,7 +265,7 @@ def main():
         Education = st.text_input('Enter Education')
         BusinessTravel= st.selectbox("Select type of business travel", ('Travel_Frequently','Travel_Rarely',"Non-Travel")) 
         Department=st.selectbox("Select type of department", ('Life Sciences','Sales', 'Support','Software','Research & Development','Human Resources','Hardware')) 
-        EducationField=st.selectbox("Select type of education field", ('Other','Marketing','Medical','Technical Degree','Human Resources')) 
+        EducationField=st.selectbox("Select type of education field", ('Other','Marketing','Medical','Technical Degree','Human Resources','Life Sciences')) 
         Gender=st.selectbox("Select  Gender ", ('Male','Female'))
         JobRole=st.selectbox("Select type of Jobrole ", ('Sales Executive', "Research Scientist", "Human Resources",
                                               "Manager","Healthcare Representative","Research Director",'Laboratory Technician','Manufacturing Director','Developer'))
