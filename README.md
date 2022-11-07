@@ -37,7 +37,7 @@ comment: after performing feature selection most of the models encountered with 
 ### Model Building
 we have trained and tested various machine learning classification models.
 
-[here](https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4)Employee%20Attrition%20Model-1.ipynb)
+[here]((https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4)Employee%20Attrition%20Model-1.ipynb)
 
 ## 5)Employee Attrition Model-2:
 
