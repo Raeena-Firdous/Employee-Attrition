@@ -46,11 +46,7 @@ to see whether an employee get attritioned with in a year or not.we made this "a
 Initially it was in imbalanced form. so for handling that we used a oversampling technique(SMOTE).
 ### Model Building
 we have trained and tested various machine learning classification models.
-(
 
-
-
-
-
-
+#### [Employee Attrition Model-2]
+(https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/5)Employee%20Attrition%20Model-2.ipynb)
 
