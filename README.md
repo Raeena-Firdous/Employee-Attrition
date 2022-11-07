@@ -37,7 +37,7 @@ comment: after performing feature selection most of the models encountered with 
 ### Model Building
 we have trained and tested various machine learning classification models.
 
-[here](https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4)Employee%20Attrition%20Model-1.ipynb)
+(https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4)Employee%20Attrition%20Model-1.ipynb)
 
 ## 5)Employee Attrition Model-2:
 
@@ -47,5 +47,5 @@ Initially it was in imbalanced form. so for handling that we used a oversampling
 ### Model Building
 we have trained and tested various machine learning classification models.
 
-[here](https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/5)Employee%20Attrition%20Model-2.ipynb)
+(https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/5)Employee%20Attrition%20Model-2.ipynb)
 
