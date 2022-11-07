@@ -55,6 +55,8 @@ comment: after SelectKBest feature selection applied some algorithms and we were
 comment: after performing feature selection most of the models encountered with the lower accuracy of 50% , so we decided to keep all the features for model building.
 ### Model Building
 we have trained and tested various machine learning classification models.
-[Employee Attrition Model-1] (https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4)Employee%20Attrition%20Model-1.ipynb)
+
+#[Employee Attrition Model-1] 
+(https://github.com/Raeena-Firdous/Employee-Attrition/blob/main/4)Employee%20Attrition%20Model-1.ipynb)
 
 
