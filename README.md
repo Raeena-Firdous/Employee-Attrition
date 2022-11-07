@@ -26,27 +26,27 @@ This dataset consist of 1000000 rows and 35 columns.The description about each a
 * PerformanceRating - It observes the worker's performance and records a value (1 means High - 4 means Low).
 * StockOptionLevel - It is issued by the company for its employees to encourage employee ownership in the company. The shares of the companies are given to the employees at discounted rates.
 
-#### checking for the null values.
-#### checking for the duplicate values.
-#### Univariate Analysis
-#### Bivariate Analysis
-#### Multivariate Analysis
+* checking for the null values.
+* checking for the duplicate values.
+* Univariate Analysis
+* Bivariate Analysis
+* Multivariate Analysis
 
 
 ## 2)Employee Attrition Preprocessing:
-Checking for outliers
-Data Cleaning
-Pearson Correlation
-One-Hot Encoding
-Feature Scaling(Normalization)
+* Checking for outliers
+* Data Cleaning
+* Pearson Correlation
+* One-Hot Encoding
+* Feature Scaling(Normalization)
 
 ## 3)Employee Attrition feature selection:
 
-### Initial model building using evalML without feature selection
+#### Initial model building using evalML without feature selection
 ### Feature Selection
-#### feature importance using random forest classifier (Selected top 21 features):
+##### feature importance using random forest classifier (Selected top 21 features):
 comment: after feature importance applied some algorithms and we were getting 50% accuracy.
-#### feature selection using SelectKBest (Selected top 15 features):
+##### feature selection using SelectKBest (Selected top 15 features):
 comment: after SelectKBest feature selection applied some algorithms and we were getting 50% accuracy.
 
 ## 4)Employee Attrition Model-1:
