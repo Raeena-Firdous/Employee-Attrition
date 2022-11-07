@@ -34,12 +34,11 @@ This dataset consist of 1000000 rows and 35 columns.The description about each a
 
 
 ## 2)Employee Attrition Preprocessing:
-
-#### Checking for outliers
-#### Data Cleaning
-#### Pearson Correlation
-#### One-Hot Encoding
-#### Feature Scaling(Normalization)
+Checking for outliers
+Data Cleaning
+Pearson Correlation
+One-Hot Encoding
+Feature Scaling(Normalization)
 
 ## 3)Employee Attrition feature selection:
 
