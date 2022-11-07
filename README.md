@@ -50,4 +50,13 @@ comment: after feature importance applied some algorithms and we were getting 50
 #### feature selection using SelectKBest (Selected top 15 features):
 comment: after SelectKBest feature selection applied some algorithms and we were getting 50% accuracy.
 
+## 4)Employee Attrition Model-1:
+
+comment: after performing feature selection most of the models encountered with the lower accuracy of 50% , so we decided to keep all the features for model building.
+### Model Building
+we have trained and tested various machine learning classification models
+
+
+
+
 
