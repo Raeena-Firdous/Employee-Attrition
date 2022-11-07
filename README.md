@@ -31,3 +31,23 @@ This dataset consist of 1000000 rows and 35 columns.The description about each a
 #### Univariate Analysis
 #### Bivariate Analysis
 #### Multivariate Analysis
+
+
+## 2)Employee Attrition Preprocessing:
+
+### Checking for outliers
+### Data Cleaning
+### Pearson Correlation
+### One-Hot Encoding
+### Feature Scaling(Normalization)
+
+## 3)Employee Attrition feature selection:
+
+### Initial model building using evalML without feature selection
+### Feature Selection
+#### feature importance using random forest classifier (Selected top 21 features):
+comment: after feature importance applied some algorithms and we were getting 50% accuracy.
+#### feature selection using SelectKBest (Selected top 15 features):
+comment: after SelectKBest feature selection applied some algorithms and we were getting 50% accuracy.
+
+
