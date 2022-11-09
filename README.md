@@ -11,6 +11,9 @@ The dataset we use is publicly available and can be accessed from [here](https:/
 
 The dataset has (1000000R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics; and labelled (supervised learning) with whether they are still in the company or whether they have gone to work somewhere else. Machine Learning models can help to understand and determine how these factors relate to workforce attrition.
 
+### Problem Type:
+Classification
+
 ## 2)Employee Attrition Preprocessing:
 * Checking for outliers
 * Data Cleaning
