@@ -1,4 +1,4 @@
-# EMPLOYEE ATTRITION PREDICTION USING MACHINE LEARNING
+## EMPLOYEE ATTRITION PREDICTION USING MACHINE LEARNING
 
 ### Problem:
 Attrition in human resources refers to the gradual loss of employees over time. In general, relatively high attrition is problematic for companies. HR professionals often assume a leadership role in designing company compensation programs, work culture and motivation systems that help the organization retain top employees.
