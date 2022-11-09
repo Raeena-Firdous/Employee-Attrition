@@ -1,6 +1,12 @@
 # EMPLOYEE ATTRITION PREDICTION USING MACHINE LEARNING
 
-## 1)Employee Attrition EDA:
+### Problem:
+Attrition in human resources refers to the gradual loss of employees over time. In general, relatively high attrition is problematic for companies. HR professionals often assume a leadership role in designing company compensation programs, work culture and motivation systems that help the organization retain top employees.
+
+
+### Goal:
+Our goal is to uncover the factors that lead to employee attrition through Exploratory Data Analysis and explore them by using various classification models to predict if an employee is likely to quit. This could greatly increase HR’s ability to intervene on time and remedy the situation to prevent attrition.
+
 
 ### DATA
 
