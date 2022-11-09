@@ -14,6 +14,13 @@ The dataset has (1000000R X 35C) that contains numeric and categorical data type
 ### Problem Type:
 Classification
 
+## 1)Employee Attrition EDA:
+•	checking for the null values.
+•	checking for the duplicate values.
+•	Univariate Analysis
+•	Bivariate Analysis
+•	Multivariate Analysis
+
 ## 2)Employee Attrition Preprocessing:
 * Checking for outliers
 * Data Cleaning
