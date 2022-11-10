@@ -47,7 +47,7 @@ We have trained and tested various machine learning classification models.
 
 ### 5)Employee Attrition Model-2:
 
-As we were getting lower accuracy from the model-1, so we have developed this model-2 by creating a new column "attrition_within_a_year" using "YearsAtCompany" column,
+As we obtained lower accuracy from the model-1, so we have developed this model-2 by creating a new column "attrition_within_a_year" using "YearsAtCompany" column,
 to see whether an employee get attritioned with in a year or not. We made this "attrition_within_a_year" feature as our dependent variable and dropped the "attrition" column from our dataset. 
 Initially it was in imbalanced form, so for handling that we used a oversampling technique(SMOTE).
 #### Model Building
